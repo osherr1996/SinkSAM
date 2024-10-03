@@ -1,1 +1,1 @@
-SinkSAM: An integrated framework for sinkholes segmentation using fine-tuned SAM prompted by monocular depth
+SinkSAM: A Monocular Depth-Guided SAM Framework for Automatic Sinkhole Segmentation
