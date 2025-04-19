@@ -1,4 +1,6 @@
-# SinkSAM: A Monocular Depth-Guided SAM Framework for Automatic Sinkhole Segmentation
+SinkSAM-Net: Knowledge-Driven Self-Supervised Sinkhole Segmentation Using
+Topographic Priors and Segment Anything Model
+
 
 ## Paper
 The full paper is available on [arXiv](https://arxiv.org/abs/2410.01473).
