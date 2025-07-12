@@ -9,12 +9,14 @@ Topographic Priors and Segment Anything Model
 
 ## Citation
 ```bibtex
-@misc{rafaeli2024sinksammonoculardepthguidedsam,
-      title={SinkSAM: A Monocular Depth-Guided SAM Framework for Automatic Sinkhole Segmentation}, 
-      author={Osher Rafaeli and Tal Svoray and Ariel Nahlieli},
-      year={2024},
-      eprint={2410.01473},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2410.01473}, 
+@article{RAFAELI20251,
+  title={SinkSAM-Net: Knowledge-driven self-supervised sinkhole segmentation using topographic priors and Segment Anything Model},
+  author={Osher Rafaeli and Tal Svoray and Ariel Nahlieli},
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume={228},
+  pages={1--15},
+  year={2025},
+  issn={0924-2716},
+  doi={10.1016/j.isprsjprs.2025.06.035},
+  url={https://www.sciencedirect.com/science/article/pii/S0924271625002618}
 }
