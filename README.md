@@ -5,7 +5,8 @@ Topographic Priors and Segment Anything Model
 
 
 ## Framework Overview
-![framework](https://github.com/user-attachments/assets/0cd3d6a3-d546-435e-9a90-c7eb37d05680)
+![framework]![Uploading sinksam_thumbnail.jpg…]()
+
 
 ## Citation
 ```bibtex
