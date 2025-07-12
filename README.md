@@ -1,7 +1,6 @@
 SinkSAM-Net: Knowledge-Driven Self-Supervised Sinkhole Segmentation Using
 Topographic Priors and Segment Anything Model
-[![arXiv Paper](https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv)](https://arxiv.org/abs/2410.01473)
-[![🤗 Hugging Face Spaces](https://img.shields.io/badge/🤗-HuggingFace%20Demo-orange?logo=huggingface)](https://huggingface.co/spaces/osherr/SinkSAM-Net)
+https://osherr1996.github.io/SinkSAMNet/
 
 
 ## Framework Overview
