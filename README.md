@@ -4,7 +4,7 @@ https://osherr1996.github.io/SinkSAMNet/
 
 
 ## Framework Overview
-![sinksam_thumbnail](https://github.com/user-attachments/assets/37cd0724-2955-47dc-a61d-ed3606ee1a2e)
+![Uploading sinksam_thumbnail.jpg…]()
 
 
 
